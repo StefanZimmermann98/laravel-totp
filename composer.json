@@ -1,0 +1,22 @@
+{
+    "name": "stefan-z/laravel-totp",
+    "description": "Create a TAN/TOTP image for creating any kind of two-factor-scenarios",
+    "type": "library",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "StefanZ\\LaravelTOTP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stefan Zimmermann",
+            "email": "stefan.zimmermann@eventanizer.events",
+            "homepage": "https://eventanizer.com",
+            "role": "Fullstack-Developer"
+        }
+    ]
+}
