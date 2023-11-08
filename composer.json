@@ -1,6 +1,6 @@
 {
     "name": "stefan-z/laravel-totp",
-    "description": "Create a TAN/TOTP image for creating any kind of two-factor-scenarios",
+    "description": "Create a TAN/TOTP for usage in any kind of two-factor-scenarios",
     "type": "library",
     "require": {
         "php": "^8.2"
