@@ -3,7 +3,7 @@
     "description": "Create a TAN/TOTP for usage in any kind of two-factor-scenarios",
     "type": "library",
     "require": {
-        "php": "^8.2"
+        "php": "^8.1"
     },
     "license": "MIT",
     "autoload": {
